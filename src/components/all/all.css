@@ -26,3 +26,13 @@ margin-top: 10%;
     height: 600px;
     width: 100% !important;
 }
+
+.box{
+    width: 100%;
+
+}
+
+.list{
+    align-items: center;
+    justify-content: center;
+}
